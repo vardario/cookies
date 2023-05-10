@@ -25,5 +25,6 @@
     "url": "git@github.com:vardario/cookies.git"
   },
   "author": "Sahin Vardar",
-  "license": "MIT"
+  "license": "MIT",
+  "packageManager": "pnpm@8.3.1"
 }
