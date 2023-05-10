@@ -1,4 +1,4 @@
-import { clearCookie, getCookie, getCookies, setCookie } from './utils';
+import { clearCookie, getCookie, getCookies, setCookie } from './utils.js';
 
 /**
  * Cookie parameters according to
