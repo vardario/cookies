@@ -1,4 +1,4 @@
-import { CookieProps } from './cookies';
+import { CookieProps } from './cookies.js';
 
 const DAY_IN_MILLISECONDS = 8.64e7;
 const MAX_SIZE_PER_COOKIE = 4096;

@@ -1,8 +1,9 @@
 import randomBytes from 'randombytes';
-import { CookieProps } from './cookies';
-import { setupJsDom } from './test-utils';
+import { CookieProps } from './cookies.js';
+import { setupJsDom } from './test-utils.js';
+import { expect, test } from 'vitest';
 
-import { clearCookie, getCookie, setCookie } from './utils';
+import { clearCookie, getCookie, setCookie } from './utils.js';
 
 setupJsDom();
 
